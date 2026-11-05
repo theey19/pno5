@@ -1,0 +1,7 @@
+id,pno,description,quantity,serial,batch,status
+1,R27CS00001,CS Assembly R27 std,500,,,input
+2,R27CS00002,CS Assembly R27 LN (Novapac),500,,,
+3,R27CS00003,CS Assembly R27 LC,500,,,
+4,R27CS00004,CS Assembly R27 LN (Enplas),500,,,
+5,R27CS00005,CS Assembly R27 std. (Dyna),500,,,
+.,,,,,,
